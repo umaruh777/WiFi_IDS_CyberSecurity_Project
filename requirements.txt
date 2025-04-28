@@ -1,0 +1,9 @@
+
+dash
+numpy
+pandas
+scapy
+tensorflow
+keras
+scikit-learn
+plotly
